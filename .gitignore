@@ -10,3 +10,34 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/source/data-commando/.settings/
+/source/data-commando/.classpath
+/source/data-commando/.project
+/source/data-commando/zookeeper/
+/source/data-commando/data-commando-common/target/
+/source/data-commando/data-commando-common/.settings/
+/source/data-commando/data-commando-common/.classpath
+/source/data-commando/data-commando-common/.project
+/source/data-commando/data-commando-common/zookeeper/
+/source/data-commando/data-commando-plugins/target/
+/source/data-commando/data-commando-plugins/.settings/
+/source/data-commando/data-commando-plugins/.classpath
+/source/data-commando/data-commando-plugins/.project
+/source/data-commando/data-commando-plugins/zookeeper/
+/source/data-commando/data-commando-ui/target/
+/source/data-commando/data-commando-ui/.settings/
+/source/data-commando/data-commando-ui/.classpath
+/source/data-commando/data-commando-ui/.project
+/source/data-commando/data-commando-ui/zookeeper/
+/.DS_Store
+/source/data-commando/.DS_Store
+/source/data-commando/data-commando-common/.DS_Store
+/source/data-commando/data-commando-plugins/.DS_Store
+/source/data-commando/data-commando-ui/.DS_Store
+/source/data-commando/data-commando-core/target/
+/source/data-commando/data-commando-core/.settings/
+/source/data-commando/data-commando-core/.classpath
+/source/data-commando/data-commando-core/.project
+/source/data-commando/data-commando-core/zookeeper/
+
+/source/data-commando/data-commando-ui/logs/
